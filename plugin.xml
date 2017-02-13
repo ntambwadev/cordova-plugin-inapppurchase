@@ -8,7 +8,7 @@
   <name>In App Purchase</name>
   <description>A lightweight cordova plugin for in app purchases on iOS and Android with a simple promise based API.</description>
   <engines>
-    <engine name="cordova" version=">=5.0.0" />
+    <engine name="cordova" version=">=3.9.2" />
   </engines>
   <repo>https://github.com/AlexDisler/cordova-plugin-inapppurchase.git</repo>
   <issue>https://github.com/AlexDisler/cordova-plugin-inapppurchase/issues</issue>
